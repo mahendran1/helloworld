@@ -1,3 +1,21 @@
+vcenter server service troubleshooting (C:\ProgramData\VMware\VMware VirtualCenter\Logs\vpxd.log)
+vcenter dabase connection verification
+virtual port group types  (vmotion default port group)
+HA
+Adminission Control policy
+SDRS - concept and what rules available to migrate vm disk
+vcenter server service name
+vmware datastore i/o latency (20-30 ms)
+Vmware storage multipath policies (VMW_PSP_Fixed, MRU, RR)
+RDM
+VMFS
+
+
+ 
+ESX 5.5 to 6.5 migration (root password validatrion, idrac validation, maintenance mode, dell bios, firmware, sd card, mount iso)
+
+
+
 vcenter migration
 
 esxi host trouble shooting orphaned vms
